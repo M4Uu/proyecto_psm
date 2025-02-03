@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Huevos de gallina",
+    "price":"6.00",
+    "image":"../../public/image/item_eggs.webp"
+  },
+  {
+    "name":"Corte frito",
+    "price":"4.20",
+    "image":"../../public/image/item_friedcut.webp"
+  },
+  {
+    "name":"Pollo entero",
+    "price":"7.00",
+    "image":"../../public/image/item_chicken.webp"
+  },
+  {
+    "name":"Menudencia",
+    "price":"3.00",
+    "image":"../../public/image/item_giblets.webp"
+  }
+]
